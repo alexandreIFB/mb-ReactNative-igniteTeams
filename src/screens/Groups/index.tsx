@@ -1,9 +1,8 @@
-import { GroupContainer, TitleText } from './styles';
+import { Container } from './styles';
 
 export function Groups() {
   return (
-    <GroupContainer>
-      <TitleText>Teste Change</TitleText>
-    </GroupContainer>
+    <Container>
+    </Container>
   );
 }
